@@ -37,3 +37,5 @@ Execution Times for Refactored Code
 ## Summary
 
 Refactoring is intended to improve a programming code’s design, structure, and performance. From a design and structure perspective, refactoring helps to reduce complexity and improve functionality, readability, maintainability, and extensibility. A refactored code may improve performance, so that the program performs faster or use less memory. One of the disadvantages is that it may take a long time to complete the refactoring process. For example, if there is a tight timeline to turn around a programming code, and the analysis will only be done infrequently on a small dataset, refactoring may not be worth the time and effort. 
+
+By refactoring the stock code, the main advantage is that it reduces the processing time significantly, although it was only taking 1 second even without refactoring. The code is more slightly more readable and less complex. Looking forward, Steve is likely going to be running this code infrequently, and so it may not have been worth the time and effort to refactor. Additionally, it took some time to write and debug the code to ensure it was working appropriately.  
