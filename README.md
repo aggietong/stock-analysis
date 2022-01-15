@@ -14,13 +14,25 @@ The purpose of this exercise was to refactor the original VBA code for stock ana
 
 The 2017 shows that all twelve stocks with the exception of TERP had positive returns, whereas only two of the twelve stocks had a positive return. The DQ stock in particular had a 199% positive return in 2017, but had a -62.6% return in 2018. By the end of 2018, the best performing stock was RUN, with a 1414% increase in returns between the two years. The worst performing stock was SPWR, with a 293% decrease in returns between 2017 and 2018. 
 
+<img width="483" alt="Stock Analysis - Table 1" src="https://user-images.githubusercontent.com/96399622/149599767-4ace0bad-1052-4875-9221-04daa4489d40.PNG">
+
 ### 2. Execution Times
 
 The execution times improved significantly for the refactored code. For 2017, execution time decreased from 1.04 seconds to 0.22 seconds. For 2018 data, execution time decreased from 0.88 seconds to 0.22 seconds. 
 
 Execution Times for the Original Code
 
+![Stock Analysis - Table 2](https://user-images.githubusercontent.com/96399622/149599776-f3e9db64-877c-4695-b3b7-3f5381225143.png)
+
+![Stock Analysis - Table 3](https://user-images.githubusercontent.com/96399622/149599781-485ce556-e902-4150-b4f7-a361e06b1fe1.png)
+
+
 Execution Times for Refactored Code 
+
+![Stock Analysis - Table 4](https://user-images.githubusercontent.com/96399622/149599790-0fe7aeb7-1730-4e17-968f-061e9814540b.png)
+
+![Stock Analysis - Table 5](https://user-images.githubusercontent.com/96399622/149599797-0d14148a-0535-4b00-adbe-493ca677e18d.png)
+
 
 ## Summary
 
